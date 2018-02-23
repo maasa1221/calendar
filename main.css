@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+table th {
+    background: #EEEEEE;
+}
+table th,
+table td {
+    border: 1px solid #CCCCCC;
+    text-align: center;
+    padding: 5px;
+}
